@@ -22,6 +22,8 @@ Application code is run by typing `node index` into the command line. Follow the
 
 An example of the application in action can be viewed [here](https://drive.google.com/file/d/1rDo3SyCxqG3fFkDWuONm8D3hUBTS9-CC/view?usp=drive_link).
 
+https://github.com/higgdan/README-generator/assets/132875476/c38d4bd6-4a98-41df-97cd-7a0341861d0b
+
 ## License
 This application is covered under the Mozilla Public License 2.0 license.
 
