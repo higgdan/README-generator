@@ -20,8 +20,6 @@ Prior to open, install the relevant node modules, particularly Inquirer, type `n
 ## Usage
 Application code is run by typing `node index` into the command line. Follow the prompts, also choosing a license when asked. The generated readme is found in the 'output' folder.
 
-An example of the application in action can be viewed [here](https://drive.google.com/file/d/1rDo3SyCxqG3fFkDWuONm8D3hUBTS9-CC/view?usp=drive_link).
-
 ## License
 This application is covered under the Mozilla Public License 2.0 license.
 
@@ -34,4 +32,4 @@ N/A There is no testing suite for this application.
 ## Questions
 If you have further questions about this project you can reach me at higgdan@fakeaddress.com  
 
-You can find more of my examples of my work at my Github: https://github.com/higgdan
+You gan find more of my examples of my work at my Github: https://github.com/higgdan
